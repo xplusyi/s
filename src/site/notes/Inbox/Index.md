@@ -1,11 +1,11 @@
 ---
-dg-publish: true
-dg-home: true
+{"dg-publish":true,"permalink":"/Inbox/Index/","tags":["gardenEntry"]}
 ---
+
 ## Home Page
 
 **It finally works!**
 
-[[Test Digital Garden]]
+[[Inbox/Test Digital Garden\|Test Digital Garden]]
 
 END.
