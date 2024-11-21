@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/inbox/index/","tags":["gardenEntry"]}
 ---
 
-## I Love this world!
+## Home Page
 
 **It finally works!**
+
+[[Inbox/Test Digital Garden\|Test Digital Garden]]
+
+END.
