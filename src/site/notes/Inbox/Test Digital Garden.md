@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/test-digital-garden/"}
+{"dg-publish":true,"permalink":"/Inbox/Test Digital Garden/"}
 ---
 
 ## I Love this world!
